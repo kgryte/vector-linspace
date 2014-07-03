@@ -1,0 +1,42 @@
+{
+  "name": "vector-linspace",
+  "version": "0.0.0",
+  "description": "Create a linearly spaced vector of numbers",
+  "author": {
+    "name": "Athan Reines",
+    "email": "athan@nodeprime.com"
+  },
+  "contributors": [
+    {
+      "name": "Athan Reines",
+      "email": "athan@nodeprime.com"
+    }
+  ],
+  "scripts": {
+    "test": "mocha"
+  },
+  "main": "./lib",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kgryte/vector-linspace.git"
+  },
+  "keywords": [
+    "vector.io",
+    "vector",
+    "linear"
+  ],
+  "bugs": {
+    "url": "https://github.com/kgryte/vector-linspace/issues"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "1.x.x",
+    "chai": "1.x.x"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/MIT"
+    }
+  ]
+}
