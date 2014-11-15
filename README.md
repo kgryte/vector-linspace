@@ -1,6 +1,8 @@
 linspace
 ========
 
+DEPRECATED: use [compute-linspace](https://github.com/compute-io/linspace).
+
 Create a vector of linearly spaced numbers.
 
 
